@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by Matt Free*
+*A lab report by Matt Freed*
 
 ## In this Report
 
@@ -38,7 +38,7 @@ myServo.write controls the position
 
 ## Part C. Integrating input and output
 
-See videos below
+https://www.youtube.com/watch?v=XuZGyAY834c
 
 ## Part D. Paper puppet
 
