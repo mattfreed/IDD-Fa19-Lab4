@@ -52,5 +52,5 @@ https://www.youtube.com/watch?v=XFmgWvtlsv4
 
 https://www.youtube.com/watch?v=YpFxZpohXxY
 
-![Code](/PuppetFight.ino)
+[Code](/PuppetFight.ino)
  
