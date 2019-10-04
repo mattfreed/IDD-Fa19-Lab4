@@ -32,19 +32,23 @@ pin 9
 
 **b. What aspects of the Servo code control angle or speed?**
 
-the delay controls the speed
+delay controls the speed
 
 myServo.write controls the position
 
 ## Part C. Integrating input and output
 
-**Include a photo/movie of your raw circuit in action.**
+See videos below
 
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+https://www.youtube.com/watch?v=XFmgWvtlsv4
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+https://www.youtube.com/watch?v=YpFxZpohXxY
  
