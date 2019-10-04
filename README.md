@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Matt Free*
 
 ## In this Report
 
@@ -8,13 +8,21 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+**Link to a video of your vibration motor**
+
+[Link to vibration motor](https://www.youtube.com/watch?v=Rb06Dnb1Krk)
 
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+
+Ground = Brown
+
+Power = Red
+
+Signal = Orange
 
 ### Part 2. Connect the Servo to your Arduino
 
