@@ -28,7 +28,13 @@ Signal = Orange
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+pin 9
+
 **b. What aspects of the Servo code control angle or speed?**
+
+the delay controls the speed
+
+myServo.write controls the position
 
 ## Part C. Integrating input and output
 
